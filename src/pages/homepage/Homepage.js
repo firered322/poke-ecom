@@ -5,7 +5,7 @@ import "./homepage.scss";
 
 const HomePage = () => (
   <div className="homepage">
-    <h1>PokeCmo</h1>
+    <h1>...////</h1>
     <Directory />
   </div>
 );
