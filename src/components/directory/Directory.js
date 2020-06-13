@@ -33,8 +33,25 @@ class Directory extends React.Component {
         {
           id: 5,
           name: "Unova",
+          img: "https://i.ytimg.com/vi/SkBBV8UtXrA/hqdefault.jpg",
+        },
+        {
+          id: 6,
+          name: "Kalos",
           img:
-            "https://pm1.narvii.com/6022/29ebf8f9237ca2c7c9fd7a0bd19f6fd34407de67_hq.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61Wfnhorc1L._AC_SX466_.jpg",
+        },
+        {
+          id: 7,
+          name: "Alola",
+          img:
+            "https://cdn.gamer-network.net/2017/usgamer/ultra-sun-and-moon-necrozmas.jpg",
+        },
+        {
+          id: 8,
+          name: "Galar",
+          img:
+            "https://i.pinimg.com/originals/f8/3d/00/f83d0015f37346cba0610f39b6c143db.jpg",
         },
       ],
     };
